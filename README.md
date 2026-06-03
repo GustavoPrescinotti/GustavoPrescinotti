@@ -41,7 +41,7 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 ### Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](./assets/badges/css3.svg)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -53,16 +53,16 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 
 ### Banco de dados
 
-![Firebird SQL](https://img.shields.io/badge/Firebird%20SQL-EE4000?style=for-the-badge&logo=firebird&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebird SQL](./assets/badges/firebird-sql.svg)
+![SQL](./assets/badges/sql.svg)
 
 ### Sistemas operacionais
 
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 8](https://img.shields.io/badge/Windows%208-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-2563EB?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows XP](./assets/badges/windows-xp.svg)
+![Windows 7](./assets/badges/windows-7.svg)
+![Windows 8](./assets/badges/windows-8.svg)
+![Windows 10](./assets/badges/windows-10.svg)
+![Windows 11](./assets/badges/windows-11.svg)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ### Eletrônica, IoT e robótica
@@ -73,7 +73,7 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 
 ### Hardware e manutenção
 
-![PC](https://img.shields.io/badge/PC-Hardware-2563EB?style=for-the-badge&logo=windows&logoColor=white)
+![PC Hardware](./assets/badges/pc-hardware.svg)
 ![Notebook](https://img.shields.io/badge/Notebook-Manutenção-0F766E?style=for-the-badge&logo=lenovo&logoColor=white)
 ![Celulares](https://img.shields.io/badge/Celulares-Suporte-7C3AED?style=for-the-badge&logo=android&logoColor=white)
 
@@ -85,7 +85,7 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](./assets/badges/vscode.svg)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![WebStorm](https://img.shields.io/badge/WebStorm-00CDD7?style=for-the-badge&logo=webstorm&logoColor=black)
 
