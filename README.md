@@ -17,11 +17,20 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 
 ---
 
+## Perfil técnico
+
+| Desenvolvimento | Hardware | Sistemas |
+| --- | --- | --- |
+| Frontend, backend, APIs e banco de dados | PCs, notebooks, celulares e prototipagem | Windows XP, 7, 8, 10, 11 e Arch Linux |
+
+<br>
+
 ## Sobre mim
 
 - Atualmente estou evoluindo como **Desenvolvedor Full Stack**.
 - Tenho interesse em **web development, APIs, banco de dados, automação e robótica**.
 - Tenho prática com **Firebird**, sistemas Windows, **Arch Linux**, Arduino, Raspberry Pi e ESP32.
+- Também tenho conhecimento em **hardware**, manutenção e configuração de PCs, notebooks e celulares.
 - Gosto de criar projetos práticos, bem estruturados e com visual agradável.
 - Estou sempre estudando novas tecnologias e melhorando meus projetos.
 
@@ -32,7 +41,7 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 ### Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -41,16 +50,15 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Banco de dados
 
-![Firebird](https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logo=firebird&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![Firebird SQL](https://img.shields.io/badge/Firebird%20SQL-EE4000?style=for-the-badge&logo=firebird&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Sistemas operacionais
 
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 8](https://img.shields.io/badge/Windows%208-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -62,6 +70,12 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+### Hardware e manutenção
+
+![PC](https://img.shields.io/badge/PC-Hardware-2563EB?style=for-the-badge&logo=windows&logoColor=white)
+![Notebook](https://img.shields.io/badge/Notebook-Manutenção-0F766E?style=for-the-badge&logo=lenovo&logoColor=white)
+![Celulares](https://img.shields.io/badge/Celulares-Suporte-7C3AED?style=for-the-badge&logo=android&logoColor=white)
 
 ### Ferramentas
 
@@ -93,15 +107,16 @@ Sistema para gerenciamento de estoque de veículos, com foco em cadastro, visual
 
 <br>
 
-## GitHub em números
+## Resumo de habilidades
 
-<div align="center">
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoPrescinotti&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPrescinotti&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
+| Área | Em evolução |
+| --- | --- |
+| Frontend | HTML, CSS, Bootstrap, JavaScript e React |
+| Backend | Python e Flask |
+| Banco de dados | Firebird SQL |
+| Sistemas operacionais | Windows XP, 7, 8, 10, 11 e Arch Linux |
+| Robótica e IoT | Arduino, Raspberry Pi e ESP32 |
+| Hardware | PCs, notebooks, celulares, manutenção e configuração |
 
 <br>
 
@@ -109,7 +124,7 @@ Sistema para gerenciamento de estoque de veículos, com foco em cadastro, visual
 
 Hi, I'm **Gustavo Prescinotti**, a Full Stack Developer in progress from Brazil.
 
-I enjoy building web applications, learning new technologies and creating projects that connect creativity, logic and clean code. My main interests are frontend, backend, Firebird databases, operating systems, robotics, Arduino, Raspberry Pi, ESP32 and practical software development.
+I enjoy building web applications, learning new technologies and creating projects that connect creativity, logic and clean code. My main interests are frontend, backend, Firebird databases, operating systems, robotics, hardware, Arduino, Raspberry Pi, ESP32 and practical software development.
 
 <br>
 
