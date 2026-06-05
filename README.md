@@ -75,7 +75,7 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 
 ![PC Hardware](./assets/badges/pc-hardware.svg)
 ![Notebook e Manutenção](./assets/badges/notebook-maintenance.svg)
-![Celulares e Suporte](./assets/badges/celulares-suporte.svg)
+![Celulares](./assets/badges/celulares.svg)
 
 ### Ferramentas
 
