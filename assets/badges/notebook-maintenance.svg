@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="238" height="28" viewBox="0 0 238 28" role="img" aria-label="Notebook Manuten&#231;&#227;o">
+  <rect width="238" height="28" rx="4" fill="#0F766E"/>
+  <rect width="104" height="28" rx="4" fill="#3F3F46"/>
+  <path d="M10 8h18v10H10z" fill="#fff"/>
+  <path d="M8 20h22v2H8z" fill="#fff"/>
+  <path d="M12 10h14v6H12z" fill="#3F3F46"/>
+  <path d="M110 18.7l4.8-4.8 1.9 1.9-4.8 4.8z" fill="#fff"/>
+  <path d="M118.3 11.8l2.3-2.3 2.8 2.8-2.3 2.3z" fill="#fff"/>
+  <circle cx="128" cy="10" r="3" fill="#fff"/>
+  <path d="M125.7 15h4.6l2.8 5h-10.2z" fill="#fff"/>
+  <text x="38" y="18" fill="#fff" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing=".7">NOTEBOOK</text>
+  <text x="140" y="18" fill="#fff" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing=".7">MANUTEN&#199;&#195;O</text>
+</svg>

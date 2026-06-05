@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="126" height="28" role="img" aria-label="PC Hardware">
-  <rect width="126" height="28" rx="4" fill="#2563EB"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="28" viewBox="0 0 154 28" role="img" aria-label="PC Hardware">
+  <rect width="154" height="28" rx="4" fill="#2563EB"/>
   <rect x="10" y="7" width="18" height="12" rx="1.5" fill="#fff"/>
   <rect x="16" y="20" width="6" height="2" fill="#fff"/>
   <rect x="13" y="23" width="12" height="2" rx="1" fill="#fff"/>
   <rect x="12" y="9" width="14" height="8" fill="#2563EB"/>
-  <text x="38" y="18" fill="#fff" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">PC HARDWARE</text>
+  <text x="38" y="18" fill="#fff" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing=".7">PC HARDWARE</text>
 </svg>

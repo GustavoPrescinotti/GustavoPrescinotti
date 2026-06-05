@@ -74,8 +74,8 @@ Gosto de transformar ideias em projetos reais, com código organizado, aprendiza
 ### Hardware e manutenção
 
 ![PC Hardware](./assets/badges/pc-hardware.svg)
-![Notebook](https://img.shields.io/badge/Notebook-Manutenção-0F766E?style=for-the-badge&logo=lenovo&logoColor=white)
-![Celulares](https://img.shields.io/badge/Celulares-Suporte-7C3AED?style=for-the-badge&logo=android&logoColor=white)
+![Notebook e Manutenção](./assets/badges/notebook-maintenance.svg)
+![Celulares e Suporte](./assets/badges/celulares-suporte.svg)
 
 ### Ferramentas
 
